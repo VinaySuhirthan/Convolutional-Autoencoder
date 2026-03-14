@@ -136,10 +136,11 @@ def visualize_denoising(model, loader, num_images=10):
 
 ### Model Summary
 
-
+![alt text](image.png)
 
 ### Original vs Noisy Vs Reconstructed Image
-<img width="1433" height="626" alt="image" src="https://github.com/user-attachments/assets/c5972e12-78e7-4d9b-80e8-23511445832a" />
+
+![alt text](image-1.png)
 
 ## RESULT
 The autoencoder successfully denoised the images, accurately reconstructing clean handwritten digits from noisy inputs.
